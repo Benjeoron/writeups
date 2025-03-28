@@ -16,19 +16,19 @@ As with any OSINT chall, the first step is to use a search engine. My query was 
 
 That narrowed it down to two candidates: the Pololu Trail and the Kalalau Trail. I first looked for the Pololu Trailhead, and the resulting Google StreetView image was very promising: 
 
-![](trailhead_street_view.png)
+![A trekker StreetView coverage of a trailhead, with the aformentioned 4 signs.](trailhead_street_view.png)
 
 So I went to the [provided plus codes website](https://plus.codes/map). then, I first tried entering a few codes from the POI on the map:
 
-![alt text](bad_loc_image.png)
+![A maps website, showing the wrong plus code, wrong location](bad_loc_image.png)
 
 I realized that was stupid, because the signs should be on the trailhead. So I zoomed in to find the POI and there it was: 
 
-![alt text](image.png)
+![A maps website, showing the wrong plus code, right location](wrong_2.png)
 
 But this was wrong too, so I heeded the instructions, zoomed out one step, and clicked to the southwest.
 
-![alt text](correct_code.png)
+![The same website showing the right code and right location](correct_code.png)
 
 Here's the correct flag: 
 
@@ -36,4 +36,6 @@ Here's the correct flag:
 
 So yeah, nothing too involved for an OSINT, no need to break out the Bellingcat OSM search or anything, just plain old Googling did the trick.
 
-**Thanks for watching!**
+Small note being that the Google coverage has one differing sign from the instructions.
+
+**Thanks for reading!**
