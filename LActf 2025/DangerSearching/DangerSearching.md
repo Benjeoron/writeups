@@ -30,11 +30,11 @@ But this was wrong too, so I heeded the instructions, zoomed out one step, and c
 
 ![The same website showing the right code and right location](correct_code.png)
 
-Here's the correct flag: 
+That luckily gave me the correct flag: 
 
 ```lactf{73G66738+9C}```
 
-So yeah, nothing too involved for an OSINT, no need to break out the Bellingcat OSM search or anything, just plain old Googling did the trick. Got lucky being right on the first guess, though.
+So yeah, nothing too involved for an OSINT challenge, no need to break out the Bellingcat OSM search or anything, just plain old Googling did the trick. Got lucky being right on the first guess, though.
 
 Small note being that the Google trekker coverage from 2013 has one differing sign from the instructions, which threw me off at first.
 
