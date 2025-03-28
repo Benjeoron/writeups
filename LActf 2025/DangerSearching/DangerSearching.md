@@ -14,6 +14,8 @@ This was a pretty simple OSINT/misc challenge, but was around 1/7 of the total p
 # Steps to solve:
 As with any OSINT chall, the first step is to use a search engine. My query was "Hawaiian hiking trail 4 warning signs." 
 
+![Google search results of the aformentioned query, showing various trailhead warning signs in lush environments](image.png)
+
 That narrowed it down to two candidates: the Pololu Trail and the Kalalau Trail. I first looked for the Pololu Trailhead, and the resulting Google StreetView image was very promising: 
 
 ![A trekker StreetView coverage of a trailhead, with the aformentioned 4 signs.](trailhead_street_view.png)
