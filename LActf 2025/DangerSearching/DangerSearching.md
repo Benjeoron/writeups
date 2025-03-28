@@ -1,5 +1,5 @@
 # /misc/Danger Searching - 286 points
-This was a pretty simple OSINT/misc challenge, but is the most valuable one I've solved so far, for what it's worth.
+This was a pretty simple OSINT/misc challenge, but was around 1/7 of the total points BK got for LActf (insert :skull: emoji) (we were in Spokane for an in-person CTF, and I solved this crashed on the couch after having pizza, W evening.)
 # The Instructions:
 > My friend told me that they hiked on a trail that had 4 warning signs at the trailhead: Hazardous cliff, falling rocks, flash flood, AND strong currents! Could you tell me where they went? They did hint that these signs were posted on a public hawaiian hiking trail.
 
@@ -34,8 +34,8 @@ Here's the correct flag:
 
 ```lactf{73G66738+9C}```
 
-So yeah, nothing too involved for an OSINT, no need to break out the Bellingcat OSM search or anything, just plain old Googling did the trick.
+So yeah, nothing too involved for an OSINT, no need to break out the Bellingcat OSM search or anything, just plain old Googling did the trick. Got lucky being right on the first guess, though.
 
-Small note being that the Google coverage has one differing sign from the instructions.
+Small note being that the Google trekker coverage from 2013 has one differing sign from the instructions, which threw me off at first.
 
 **Thanks for reading!**
