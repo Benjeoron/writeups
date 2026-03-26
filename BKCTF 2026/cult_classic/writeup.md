@@ -1,5 +1,6 @@
 # Introduction
-This challenge appeared in BKCTF 2026, authored by Laptic (shoutout). 
+This challenge appeared in BKCTF 2026, [authored by Laptic](https://www.batmans.kitchen/challenges/bkctf2026/cult-classic) (shoutout). I originally solved it during the competition, but this writeup has been adapted
+for a local solve.
 
 ![alt text](image.png)
 
